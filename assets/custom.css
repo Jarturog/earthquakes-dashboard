@@ -1,0 +1,9 @@
+body {
+/*
+Color de fondo de la página para que en la parte superior e inferior no se veían 2 stripes blancas
+en caso de que cambie el color de fondo de la dash application
+*/
+    background-color: #f0f0f4 !important;
+    margin: 0;
+    padding: 0;
+}
