@@ -1,0 +1,13 @@
+numpy==2.3.3
+pandas==2.3.2
+pillow==10.3.0
+scipy==1.16.2
+plotly==6.3.0
+matplotlib==3.10.6
+matplotlib-venn==1.1.2
+folium==0.20.0
+wordcloud==1.9.4
+pywaffle==1.1.1
+dash==3.2.0
+dash-bootstrap-components==2.0.4
+scikit-learn==1.5.0
