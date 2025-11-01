@@ -11,3 +11,5 @@ pywaffle==1.1.1
 dash==3.2.0
 dash-bootstrap-components==2.0.4
 scikit-learn==1.5.0
+nbconvert==7.16.6
+gunicorn==23.0.0
