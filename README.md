@@ -109,7 +109,7 @@ earthquakes-dashboard/
 | `date_time` | Fecha y hora del evento |
 | `cdi` | Intensidad máxima reportada |
 | `mmi` | Intensidad instrumental máxima estimada |
-| `alert` | Nivel de alerta (verde, amarillo, naranja, rojo) |
+| `alert` | Nivel de alerta (verde, amarilla, naranja, roja) |
 | `tsunami` | Indicador de tsunami (1 = sí, 0 = no) |
 | `sig` | Significancia del evento |
 | `depth` | Profundidad del epicentro |
