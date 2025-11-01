@@ -4,7 +4,7 @@ Dashboard interactivo desarrollado con Python y Dash para el análisis y visuali
 
 ## Descripción
 
-Este proyecto presenta un dashboard completo para explorar y analizar datos de terremotos mediante visualizaciones interactivas, análisis estadísticos y predicciones con Machine Learning. El dashboard está organizado en tres secciones principales: General, Espacio y Tiempo.
+Este proyecto presenta un dashboard completo para explorar y analizar datos de terremotos mediante visualizaciones interactivas y análisis estadísticos. El dashboard está organizado en tres secciones principales: General, Espacio y Tiempo.
 
 **Autor:** Juan Arturo Abaurrea Calafell  
 **Proyecto:** Práctica final de Visualización Avanzada de Datos
